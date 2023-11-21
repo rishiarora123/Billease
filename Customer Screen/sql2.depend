@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1651245875 source:e:\project work\sql2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"field_types.h"
+	"my_list.h"
+	"mysql_com.h"
+	"mysql/client_plugin.h"
+	"mysql_version.h"
+	"mysql_time.h"
+	"errmsg.h"
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\field_types.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\my_list.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql_com.h
+	<stdbool.h>
+	<stdint.h>
+	"my_command.h"
+	"my_compress.h"
+	"my_io.h"
+	"mysql/components/services/bits/my_io_bits.h"
+	<stdbool.h>
+	"mysql/udf_registration_types.h"
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\my_command.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\my_compress.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql\udf_registration_types.h
+	<stdbool.h>
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1648029006 c:\program files\mysql\mysql server 8.0\include\mysql_version.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\mysql_time.h
+
+1648023778 c:\program files\mysql\mysql server 8.0\include\errmsg.h
+
+1646647970 c:\sqlapi\include\sqlapi.h
+	<windows.h>
+	<wchar.h>
+	<wctype.h>
+	<sys/time.h>
+	<types.h>
+	<sys/types.h>
+	<sys/timeb.h>
+	<time.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<string>
+
+1657609453 source:d:\project work\sql2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
+1658813288 source:e:\supermarket code\sql2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
+1682593107 source:d:\supermarket code\sql2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
+1682593107 source:d:\e-commerce billing system\customer screen\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string.h>
+	<sstream>
+	<stdio.h>
+	<iomanip>
+	<time.h>
+
